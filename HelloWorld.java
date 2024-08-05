@@ -6,8 +6,8 @@
  * V nadaljevanju služi prikazu delovanja razredov in objektov
  * 
  * @author Nikola Dimitriev
- * @version Primer 19a (vmesniki) 
- */
+ * @version Primer 19a (vmesniki)   TEST TEST TEST
+ */ 
 
 // Uvozimo vse razrede iz paketa za delo z V/I napravami in pripomočke
 import java.io.*;
